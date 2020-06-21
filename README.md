@@ -1,0 +1,2 @@
+# Customer_relationship_with_Markov_Chains
+客户发展关系的马尔可夫过程模型及其应用
